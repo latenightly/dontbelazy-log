@@ -1,4 +1,6 @@
 # Your latest stats:
-## PUSHUPS:10
-## CRUNCHES:20
-## CURLS:30
+
+## 09/2022:
+CRUNCHES: 11
+PUSHUPS: 50
+CURLS: 50
