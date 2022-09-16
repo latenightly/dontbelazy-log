@@ -1,19 +1,25 @@
 # Your latest stats:
 
 ## 09/15/2022:
-**CRUNCHES:** 21
+**GRIP:** 12
 
 **PUSHUPS:** 60
 
-**CURLS:** 50
+**CURLS:** 72
+
+**SHOULDER:** 60
 
 ---------
 
 ## 09/16/2022:
-**CRUNCHES:** 71
+**CRUNCHES:** 10
 
-**PUSHUPS:** 100
+**GRIP:** 12
 
-**CURLS:** 110
+**PUSHUPS:** 70
+
+**CURLS:** 82
+
+**SHOULDER:** 70
 
 ---------
