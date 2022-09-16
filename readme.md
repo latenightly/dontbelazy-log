@@ -12,14 +12,14 @@
 ---------
 
 ## 09/16/2022:
-**CRUNCHES:** 11
+**CRUNCHES:** 12
 
 **GRIP:** 12
 
-**PUSHUPS:** 71
+**PUSHUPS:** 72
 
-**CURLS:** 83
+**CURLS:** 84
 
-**SHOULDER:** 71
+**SHOULDER:** 72
 
 ---------
