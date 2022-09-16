@@ -1,15 +1,15 @@
-# 💪 Your total stats (2 days):
-**💪 CRUNCHES:** 60
+# 🔥 Your total stats 🔥
+In the last 2 days, you have done:
+**💪 CRUNCHES:** 61
 
 **💪 GRIP:** 12
 
-**💪 PUSHUPS:** 87
+**💪 PUSHUPS:** 88
 
-**💪 CURLS:** 121
+**💪 CURLS:** 122
 
-**💪 SHOULDER:** 98
+**💪 SHOULDER:** 99
 
----
 ---
 ## Daily stats:
 
@@ -35,19 +35,19 @@
 <details>
 <summary>09/16/2022</summary>
 
-**CRUNCHES:** 60
+**CRUNCHES:** 61
 
 
 **GRIP:** 0
 
 
-**PUSHUPS:** 27
+**PUSHUPS:** 28
 
 
-**CURLS:** 49
+**CURLS:** 50
 
 
-**SHOULDER:** 38
+**SHOULDER:** 39
 
 </details>
 
