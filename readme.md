@@ -3,7 +3,7 @@ In the last **3 days**, you have done:
 
 - **40** CRUNCHES 💪
 - **12** GRIP 💪
-- **105** PUSHUPS 💪
+- **115** PUSHUPS 💪
 - **122** CURLS 💪
 - **108** SHOULDER 💪
 
