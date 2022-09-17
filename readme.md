@@ -40,7 +40,7 @@ In the last **3 days**, you have done:
 
 - **CRUNCHES:** 10
 - **GRIP:** 0
-- **PUSHUPS:** 0
+- **PUSHUPS:** 10
 - **CURLS:** 10
 - **SHOULDER:** 8
 </details>
