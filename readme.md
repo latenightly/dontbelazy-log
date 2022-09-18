@@ -1,11 +1,11 @@
 # 🔥 Your total stats 🔥
-In the last **3 days**, you have done:
+In the last **4 days**, you have done:
 
-- **52** CRUNCHES 💪
+- **64** CRUNCHES 💪
 - **12** GRIP 💪
-- **125** PUSHUPS 💪
-- **134** CURLS 💪
-- **123** SHOULDER 💪
+- **135** PUSHUPS 💪
+- **144** CURLS 💪
+- **135** SHOULDER 💪
 
 ---
 ## Total Daily Repetitions: 
@@ -15,6 +15,8 @@ In the last **3 days**, you have done:
 ███████████████ 155 
 - 09/17/2022: 
 ████████ 87 
+- 09/18/2022: 
+████ 44 
 ---
 ## Daily stats:
 
@@ -51,6 +53,19 @@ In the last **3 days**, you have done:
 - **PUSHUPS:** 20
 - **CURLS:** 22
 - **SHOULDER:** 23
+</details>
+
+---
+
+
+<details>
+<summary>09/18/2022</summary>
+
+- **CRUNCHES:** 12
+- **GRIP:** 0
+- **PUSHUPS:** 10
+- **CURLS:** 10
+- **SHOULDER:** 12
 </details>
 
 ---
