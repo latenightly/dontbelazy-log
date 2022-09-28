@@ -1,5 +1,5 @@
 # 🔥 Your total stats 🔥
-In the last **10 days**, you have done:
+In the last **11 days**, you have done:
 
 - **254** CRUNCHES 💪
 - **12** GRIP 💪
@@ -156,6 +156,19 @@ In the last **10 days**, you have done:
 - **PUSHUPS:** 17
 - **CURLS:** 30
 - **SHOULDER:** 30
+</details>
+
+---
+
+
+<details>
+<summary>09/28/2022</summary>
+
+- **CRUNCHES:** 0
+- **GRIP:** 0
+- **PUSHUPS:** 0
+- **CURLS:** 0
+- **SHOULDER:** 0
 </details>
 
 ---
